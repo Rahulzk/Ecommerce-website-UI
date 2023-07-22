@@ -1,0 +1,12 @@
+
+
+@media only screen and (max-width:992px) {
+   .clock_wrapper{
+        justify-content: center;
+        /* flex-direction: column; */
+   }
+   clock_data h1{
+    font-size: 1.2rem !important;
+   }
+   
+}
